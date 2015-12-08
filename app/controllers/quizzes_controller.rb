@@ -6,7 +6,7 @@ class QuizzesController < ApplicationController
   end
 
   def show
-
+  	
   end
 
   private
