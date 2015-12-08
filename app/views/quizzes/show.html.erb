@@ -12,31 +12,34 @@
 
 			<h3><%= @quiz.question_1 %></h3>
 
-				<%= radio_button_tag(:value_1, "true") %>
-				<%= label_tag(:value_1_true, "true") %>
-				<%= radio_button_tag(:value_1, "false") %>
-				<%= label_tag(:value_1_false, "false") %>
+				<%= radio_button_tag(:value_1, "Y") %>
+				<%= label_tag(:value_1_Y, "Y") %>
+				<%= radio_button_tag(:value_1, "N") %>
+				<%= label_tag(:value_1_N, "N") %>
 
 			<h3><%= @quiz.question_2 %></h3>
 
-				<%= radio_button_tag(:value_2, "true") %>
-				<%= label_tag(:value_2_true, "true") %>
-				<%= radio_button_tag(:value_2, "false") %>
-				<%= label_tag(:value_2_false, "false") %>
+				<%= radio_button_tag(:value_2, "Y") %>
+				<%= label_tag(:value_2_Y, "Y") %>
+				<%= radio_button_tag(:value_2, "N") %>
+				<%= label_tag(:value_2_N, "N") %>
 
 			<h3><%= @quiz.question_3 %></h3>
 
-				<%= radio_button_tag(:value_3, "true") %>
-				<%= label_tag(:value_3_true, "true") %>
-				<%= radio_button_tag(:value_3, "false") %>
-				<%= label_tag(:value_3_false, "false") %>
+				<%= radio_button_tag(:value_3, "Y") %>
+				<%= label_tag(:value_3_Y, "Y") %>
+				<%= radio_button_tag(:value_3, "N") %>
+				<%= label_tag(:value_3_N, "N") %>
 
 			<h3><%= @quiz.question_4 %></h3>
 
-				<%= radio_button_tag(:value_4, "true") %>
-				<%= label_tag(:value_4_true, "true") %>
-				<%= radio_button_tag(:value_4, "false") %>
-				<%= label_tag(:value_4_false, "false") %>
+				<%= radio_button_tag(:value_4, "Y") %>
+				<%= label_tag(:value_4_Y, "Y") %>
+				<%= radio_button_tag(:value_4, "N") %>
+				<%= label_tag(:value_4_N, "N") %>
+
+				<%= radio_button_tag(:quiz_id, @quiz.id, checked: true) %>
+
 
 				<%= submit_tag("Search") %>
 

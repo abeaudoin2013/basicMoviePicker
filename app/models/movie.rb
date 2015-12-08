@@ -1,12 +1,12 @@
 class Movie < ActiveRecord::Base
 	belongs_to :quiz
 
-def self.assign_answer_key (val1, val2, val3, val4)
+	def self.assign_answer_key (val1, val2, val3, val4)
 
 
 		if val1 == "Y" && val2 == "Y" && val3 == "Y" && val4 == "Y"
 
-			answer_key = 0 
+			answer_key = 0
 
 			# find_movie(answer_key)
 

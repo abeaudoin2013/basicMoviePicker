@@ -6,7 +6,6 @@ class QuizzesController < ApplicationController
   end
 
   def show
-    session[:quiz_id] = @quiz.id
   end
 
   private
