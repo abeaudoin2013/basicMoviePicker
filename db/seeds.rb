@@ -21,6 +21,7 @@ Movie.create(title:"Existenz",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"Strange Days",
@@ -29,6 +30,7 @@ Movie.create(title:"Strange Days",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"The Fifth Element",
@@ -37,6 +39,7 @@ Movie.create(title:"The Fifth Element",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"Tell No One",
@@ -45,6 +48,7 @@ Movie.create(title:"Tell No One",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"Changing Lanes",
@@ -53,6 +57,7 @@ Movie.create(title:"Changing Lanes",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"Snowpiercer",
@@ -61,6 +66,7 @@ Movie.create(title:"Snowpiercer",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"Headhunters",
@@ -69,6 +75,7 @@ Movie.create(title:"Headhunters",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"Wish You Were Here",
@@ -77,6 +84,7 @@ Movie.create(title:"Wish You Were Here",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"Marathon Man",
@@ -85,6 +93,7 @@ Movie.create(title:"Marathon Man",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"Mud",
@@ -93,6 +102,7 @@ Movie.create(title:"Mud",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"",
@@ -101,6 +111,7 @@ Movie.create(title:"",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"",
@@ -109,6 +120,7 @@ Movie.create(title:"",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"",
@@ -117,6 +129,7 @@ Movie.create(title:"",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"",
@@ -125,6 +138,7 @@ Movie.create(title:"",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
 Movie.create(title:"",
@@ -133,5 +147,6 @@ Movie.create(title:"",
 						movie_link:"",
 						short_description:"",
 						online: ,
+						answer_key: ,
 						quiz_id: 
 						)
