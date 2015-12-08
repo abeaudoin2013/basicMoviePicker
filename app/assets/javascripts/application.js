@@ -14,3 +14,10 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+
+
+$(document).on("page:change", function () {
+
+	$('#quiz_id_1').hide();
+
+});
