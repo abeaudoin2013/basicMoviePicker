@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151208160446) do
+ActiveRecord::Schema.define(version: 20151208163815) do
 
   create_table "answers", force: :cascade do |t|
     t.string   "answer_key"
@@ -31,12 +31,12 @@ ActiveRecord::Schema.define(version: 20151208160446) do
     t.string   "movie_link"
     t.string   "short_description"
     t.boolean  "online"
-    t.integer  "question_set_id"
+    t.integer  "quiz_id"
     t.datetime "created_at",              null: false
     t.datetime "updated_at",              null: false
   end
 
-  create_table "question_sets", force: :cascade do |t|
+  create_table "quizzes", force: :cascade do |t|
     t.string   "label"
     t.string   "question_1"
     t.string   "question_2"

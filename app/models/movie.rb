@@ -1,3 +1,3 @@
 class Movie < ActiveRecord::Base
-	belongs_to :question_set
+	belongs_to :quiz
 end
