@@ -13,3 +13,28 @@
  *= require_tree .
  *= require_self
  */
+
+
+body {
+  background: #ecf0f1;
+  font-family: arial;
+}
+.quiz_container {
+	margin: 2% 2%;
+}
+.quiz_row {
+	/*text-align: center;*/
+}
+.quizzes {
+  max-width: 33.33333333333%;
+  height: 100%;
+  margin: 5%;
+  border: 1px solid black;
+  text-align: center;
+  display: inline-block;
+  background: #2ecc71;
+  padding: 5%;
+}
+.quizzes:hover {
+	cursor: pointer;
+}

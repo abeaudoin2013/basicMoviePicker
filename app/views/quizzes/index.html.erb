@@ -1,5 +1,25 @@
-<h1>Pick a movie quizzzz</h1>
 
-<% @quizzes.each do |quiz|%>
-	<p><%= quiz.label %></p>
-<% end %>
+
+<div class="quiz_container">
+
+	<div class="quiz_row">
+
+		<h1 style="text-align:center">Pick a movie! You'll be taken to a quiz where we'll make your personalized movie reccomendation</h1>
+
+	</div>
+
+	<div class="quiz_row">
+
+		<% @quizzes.each do |quiz|%>
+
+			<div class='quizzes'>
+
+				<h3><%= link_to quiz.label, quizzes_show_path(quiz) %></h3>
+
+			</div>
+
+		<% end %>
+
+	</div>
+
+</div>
