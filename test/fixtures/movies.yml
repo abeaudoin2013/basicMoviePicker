@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  netflix_title_card_link: MyString
+  preview_link: MyString
+  short_description: MyString
+  online: false
+  answer_id: 1
+
+two:
+  name: MyString
+  netflix_title_card_link: MyString
+  preview_link: MyString
+  short_description: MyString
+  online: false
+  answer_id: 1
