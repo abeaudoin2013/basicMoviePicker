@@ -2,7 +2,6 @@ class MoviesController < ApplicationController
   
   def show
 
-
   	value_1 = params[:value_1]
   	value_2 = params[:value_2]
   	value_3 = params[:value_3]

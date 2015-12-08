@@ -50,41 +50,28 @@ class Movie < ActiveRecord::Base
 
 			answer_key = 10
 
-		elsif val1 == "N" && val2 == "N" && val3 == "Y" && val4 == "Y"
-
-			answer_key = 11
-
 		elsif val1 == "N" && val2 == "Y" && val3 == "N" && val4 == "Y"
 			
-			answer_key = 12
+			answer_key = 11
 
 		elsif val1 == "N" && val2 == "Y" && val3 == "Y" && val4 == "N"
 			
-			answer_key = 13
+			answer_key = 12
 
 		elsif val1 == "N" && val2 == "N" && val3 == "Y" && val4 == "N"
 			
-			answer_key = 14
+			answer_key = 13
 
 		elsif val1 == "N" && val2 == "Y" && val3 == "N" && val4 == "N"
 			
-			answer_key = 15
+			answer_key = 14
 
 		elsif val1 == "N" && val2 == "N" && val3 == "N" && val4 == "N"
 			
-			answer_key = 16
+			answer_key = 15
 			
 		end
 
 	end
 
-
-
-	# def self.find_movie (answer_key)
-
-	# 	puts 'cheese'
-
-	# end
-
-	#current_quiz
 end
