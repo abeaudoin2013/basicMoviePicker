@@ -14,7 +14,7 @@
 
 			<div class='quizzes'>
 
-				<h3><%= link_to quiz.label, quizzes_show_path(quiz) %></h3>
+				<h3><%= link_to quiz.label, quizzes_show_path(:id => quiz.id) %></h3>
 
 			</div>
 

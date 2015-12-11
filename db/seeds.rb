@@ -100,7 +100,7 @@ Movie.create(title:"Existenz",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 0,
 						quiz_id: 1
 						)
@@ -109,7 +109,7 @@ Movie.create(title:"Vanilla Sky",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 0,
 						quiz_id: 1
 						)
@@ -118,7 +118,7 @@ Movie.create(title:"Pi",
 						preview_link:"",
 						movie_link: "",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 0,
 						quiz_id: 1
 						)
@@ -127,7 +127,7 @@ Movie.create(title:"Primer",
 						preview_link:"",
 						movie_link: "",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 0,
 						quiz_id: 1
 						)
@@ -136,7 +136,7 @@ Movie.create(title:"Strange Days",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 1,
 						quiz_id: 1
 						)
@@ -145,7 +145,7 @@ Movie.create(title:"Strange Days",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 1,
 						quiz_id: 1
 						)
@@ -154,7 +154,7 @@ Movie.create(title:"Mr. Nobody",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 1,
 						quiz_id: 1
 						)
@@ -163,7 +163,7 @@ Movie.create(title:"The Brother From Another Planet",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 1,
 						quiz_id: 1
 						)
@@ -172,7 +172,7 @@ Movie.create(title:"Perfect Sense",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 1,
 						quiz_id: 1
 						)
@@ -181,7 +181,7 @@ Movie.create(title:"The Fifth Element",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 2,
 						quiz_id: 1
 						)
@@ -190,7 +190,7 @@ Movie.create(title:"Equillibrium",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 2,
 						quiz_id: 1
 						)
@@ -199,7 +199,7 @@ Movie.create(title:"Snatch",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 3,
 						quiz_id: 1
 						)
@@ -208,7 +208,7 @@ Movie.create(title:"Tell No One",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 4,
 						quiz_id: 1
 						)
@@ -217,7 +217,7 @@ Movie.create(title:"Unbreakable",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 4,
 						quiz_id: 1
 						)
@@ -226,7 +226,7 @@ Movie.create(title:"Changing Lanes",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 8,
 						quiz_id: 1
 						)
@@ -235,7 +235,7 @@ Movie.create(title:"Felony",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 8,
 						quiz_id: 1
 						)
@@ -244,7 +244,7 @@ Movie.create(title:"Valkyrie",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 6,
 						quiz_id: 1
 						)
@@ -253,7 +253,7 @@ Movie.create(title:"Snowpiercer",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 10,
 						quiz_id: 1
 						)
@@ -262,7 +262,7 @@ Movie.create(title:"Confessions of a Dangerous Mind",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 10,
 						quiz_id: 1
 						)
@@ -271,7 +271,7 @@ Movie.create(title:"Confessions of a Dangerous Mind",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 10,
 						quiz_id: 1
 						)
@@ -281,7 +281,7 @@ Movie.create(title:"Bruiser",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 5,
 						quiz_id: 1
 						)
@@ -290,7 +290,7 @@ Movie.create(title:"Coriolanus",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 5,
 						quiz_id: 1
 						)
@@ -299,7 +299,7 @@ Movie.create(title:"The Joneses",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 7,
 						quiz_id: 1
 						)
@@ -308,7 +308,7 @@ Movie.create(title:"Unbreakable",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 7,
 						quiz_id: 1
 						)
@@ -318,7 +318,7 @@ Movie.create(title:"Headhunters",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 9,
 						quiz_id: 1
 						)
@@ -327,116 +327,278 @@ Movie.create(title:"Donnie Brasco",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
+						online: true,
 						answer_key: 9,
 						quiz_id: 1
 						)
-
-Movie.create(title:"Tell No One",
-						netflix_title_card_link:"",
+Movie.create(title:"A Lonely Place To Die",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/70224979",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
+						online: true,
+						answer_key: 11,
+						quiz_id: 1
 						)
-Movie.create(title:"Changing Lanes",
-						netflix_title_card_link:"",
+Movie.create(title:"Below",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/60024909",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
+						online: true,
+						answer_key: 11,
+						quiz_id: 1
 						)
-Movie.create(title:"Snowpiercer",
-						netflix_title_card_link:"",
+Movie.create(title:"Equillibrium",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/60024935",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
+						online: true,
+						answer_key: 11,
+						quiz_id: 1
 						)
-Movie.create(title:"Headhunters",
-						netflix_title_card_link:"",
+Movie.create(title:"Eropa Report",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/70276016",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
+						online: true,
+						answer_key: 11,
+						quiz_id: 1
 						)
 Movie.create(title:"Wish You Were Here",
-						netflix_title_card_link:"",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/70228019",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
+						online: true,
+						answer_key: 12,
+						quiz_id: 1
+						)
+Movie.create(title:"Let the Right One in",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/70099621",
+						preview_link:"",
+						movie_link:"",
+						short_description:"",
+						online: true,
+						answer_key: 12,
+						quiz_id: 1
+						)
+Movie.create(title:"The Brother from Another Planet",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/60001355",
+						preview_link:"",
+						movie_link:"",
+						short_description:"",
+						online: true,
+						answer_key: 12,
+						quiz_id: 1
+						)
+Movie.create(title:"Eropa Report",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/70276016",
+						preview_link:"",
+						movie_link:"",
+						short_description:"",
+						online: true,
+						answer_key: 12,
+						quiz_id: 1
 						)
 Movie.create(title:"Marathon Man",
-						netflix_title_card_link:"",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/60011641",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
+						online: true,
+						answer_key: 14,
+						quiz_id: 1
+						)
+Movie.create(title:"Rapt",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/70165458",
+						preview_link:"",
+						movie_link:"",
+						short_description:"",
+						online: true,
+						answer_key: 14,
+						quiz_id: 1
+						)
+Movie.create(title:"The Gift",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/60003508",
+						preview_link:"",
+						movie_link:"",
+						short_description:"",
+						online: true,
+						answer_key: 14,
+						quiz_id: 1
+						)
+Movie.create(title:"Deep Impact",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/11819345",
+						preview_link:"",
+						movie_link:"",
+						short_description:"",
+						online: true,
+						answer_key: 14,
+						quiz_id: 1
+						)
+Movie.create(title:"Side Effects",
+						netflix_title_card_link:"http://www.netflix.com/WiPlayer?movieid=70243447",
+						preview_link:"",
+						movie_link:"",
+						short_description:"",
+						online: true,
+						answer_key: 14,
+						quiz_id: 1
 						)
 Movie.create(title:"Mud",
-						netflix_title_card_link:"",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/70242564",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
+						online: true,
+						answer_key: 13,
+						quiz_id: 1
 						)
-Movie.create(title:"",
-						netflix_title_card_link:"",
+Movie.create(title:"Rescue Dawn",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/70056420",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
+						online: true,
+						answer_key: 13,
+						quiz_id: 1
 						)
-Movie.create(title:"",
-						netflix_title_card_link:"",
+Movie.create(title:"Hatchet for the Honeymoon",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/60000997",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
+						online: true,
+						answer_key: 13,
+						quiz_id: 1
 						)
-Movie.create(title:"",
-						netflix_title_card_link:"",
+Movie.create(title:"Identity",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/60026150",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
+						online: true,
+						answer_key: 15,
+						quiz_id: 1
 						)
-Movie.create(title:"",
-						netflix_title_card_link:"",
+Movie.create(title:"Scenic Route",
+						netflix_title_card_link:"http://www.netflix.com/WiMovie/70272900",
 						preview_link:"",
 						movie_link:"",
 						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
+						online: true,
+						answer_key: 15,
+						quiz_id: 1
 						)
-Movie.create(title:"",
-						netflix_title_card_link:"",
-						preview_link:"",
-						movie_link:"",
-						short_description:"",
-						online: ,
-						answer_key: ,
-						quiz_id: 
-						)
+
+# Movie.create(title:"Tell No One",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
+# Movie.create(title:"Changing Lanes",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
+# Movie.create(title:"Snowpiercer",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
+# Movie.create(title:"Headhunters",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
+# Movie.create(title:"Wish You Were Here",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
+# Movie.create(title:"Marathon Man",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
+# Movie.create(title:"Mud",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
+# Movie.create(title:"",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
+# Movie.create(title:"",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
+# Movie.create(title:"",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
+# Movie.create(title:"",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
+# Movie.create(title:"",
+# 						netflix_title_card_link:"",
+# 						preview_link:"",
+# 						movie_link:"",
+# 						short_description:"",
+# 						online:,
+# 						answer_key: ,
+# 						quiz_id: 
+# 						)
